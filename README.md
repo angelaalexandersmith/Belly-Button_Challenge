@@ -15,6 +15,7 @@ Use sample_values as the values for the bar chart.
 Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
+![image](https://user-images.githubusercontent.com/108265105/205044575-e3f1f91d-54c9-4f66-9ff1-a3822b1a5d2e.png)
 
 
 Create a bubble chart that displays each sample. Use otu_ids for the x values.
