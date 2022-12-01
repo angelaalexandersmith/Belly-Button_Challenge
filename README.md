@@ -28,6 +28,9 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
+![image](https://user-images.githubusercontent.com/108265105/205044757-47788ab2-03fa-4068-b9af-6fa43e567162.png)
+
+
 
 Display the sample metadata, i.e., an individual's demographic information.
 
